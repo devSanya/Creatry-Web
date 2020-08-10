@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://www.creatry.net/</loc>
+	<lastmod>2020-07-14T20:03:43+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.creatry.net/showcase/</loc>
+	<lastmod>2020-07-14T20:03:43+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.creatry.net/purchase/</loc>
+	<lastmod>2020-07-14T20:03:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.creatry.net/community/</loc>
+	<lastmod>2020-07-14T20:03:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.creatry.net/extra/</loc>
+	<lastmod>2020-07-14T20:03:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.creatry.net/support/</loc>
+	<lastmod>2020-07-14T20:03:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.creatry.net/support/contact/</loc>
+	<lastmod>2020-07-14T20:03:47+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.creatry.net/support/request/</loc>
+	<lastmod>2020-07-14T20:03:47+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.creatry.net/support/request/repair/</loc>
+	<lastmod>2020-07-14T20:03:47+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://www.creatry.net/support/request/bug-report/</loc>
+	<lastmod>2020-07-14T20:03:50+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://www.creatry.net/support/request/showcase/</loc>
+	<lastmod>2020-07-14T20:03:47+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://www.creatry.net/support/request/repair/reinstall/</loc>
+	<lastmod>2020-07-14T20:03:48+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://www.creatry.net/support/request/repair/update/</loc>
+	<lastmod>2020-07-14T20:03:48+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+</urlset>
